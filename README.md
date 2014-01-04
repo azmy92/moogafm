@@ -10,6 +10,14 @@ An audio streaming website build using PHP and Javascript(Jquery), which include
    - Media Player
    - Winamp
 
+Server side
+-----------
+Server side is implemented using PHP and MySql
+
+Client side
+-----------
+Client side is implemented using JavaScript(Jquery and Ajax), Css and HTML
+
 Login
 -----
 Users can login through creating a new account or through Facebook
